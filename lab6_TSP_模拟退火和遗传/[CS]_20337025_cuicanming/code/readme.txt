@@ -1,0 +1,5 @@
+cuixs_GA是遗传算法实现的解决TSP问题
+cuixs_SA是模拟退火策略实现的解决TSP问题
+cuixs_PS是局部搜索实现的解决TSP问题
+temp2.txt文件中是一个150个城市的TSP问题，每一列依次为城市编号、x坐标、y坐标
+运行程序需要matplotlib库，程序会生成gif图保存到文件目录下

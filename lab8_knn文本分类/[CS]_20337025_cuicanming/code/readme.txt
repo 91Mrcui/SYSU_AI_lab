@@ -1,0 +1,6 @@
+test.txt为训练集
+train.txt为测试集
+ban.txt为单词停用表
+classify_knn.py文件为使用knn的文本情感分类程序
+classify_knn_pca.py文件为加入了pca的使用knn的文本情感分类程序
+将文件都放在同一目录下运行.py文件即可。

@@ -1,0 +1,5 @@
+minst_distinguish.py为手写数字识别的实验程序
+regress_2.py为房价预测的实验程序
+minst为实验1的数据集
+regress_data2.csv为实验2的数据集
+修改程序中的路径即可

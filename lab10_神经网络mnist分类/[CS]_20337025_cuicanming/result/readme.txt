@@ -1,0 +1,3 @@
+loss_image_1.png为实验一的loss函数变化图
+loss_image_2.png为实验二的loss函数变化图
+function_image.png为实验二的回归函数图

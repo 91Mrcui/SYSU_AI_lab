@@ -1,0 +1,247 @@
+documentId emotion words
+1 5 sad mortar assault leav at least dead
+2 4 joy goal delight for sheva
+3 4 joy nigeria hostag fear dead is freed
+4 3 fear bomber kill shopper
+5 6 surprise veget not fruit slow brain declin
+6 4 joy pm havana deal a good experi
+7 4 joy kate is marri doherti
+8 6 surprise nasa revisit life on mar question
+9 4 joy happi birthdai ipod
+10 4 joy alonso would be happi to retir with three titl
+11 4 joy madonna s new tot happi at home in london
+12 5 sad nicol kidman ask dad to help stop husband s drink
+13 4 joy unit find good connect in win
+14 4 joy runwai make good without make nice
+15 5 sad we were arrog and stupid over iraq sai us diplomat
+16 5 sad bad reason to be good
+17 6 surprise madonna s new babi s daddi didn t realiz adopt wa for good
+18 5 sad women in their s ar perfectli good mother
+19 4 joy we re a pretti kind bulli
+20 4 joy moder drink reduc men s heart attack risk
+21 4 joy tom cruis and kati holm set wed date
+22 3 fear kidnap ap photograph freed in gaza
+23 2 disgust bush insist troop stai in iraq predict midterm victori
+24 6 surprise hurrican paul weaken to tropic storm
+25 1 anger uk announc immigr restrict
+26 4 joy three found aliv from miss russian ship report
+27 5 sad poison pill to swallow hawk hurt after loss to vike
+28 4 joy injur marathon winner leav hospit
+29 6 surprise hacker unlock appl music download protect
+30 3 fear spanish journalist seiz in gaza
+31 6 surprise sudan urg un to replac it special envoi
+32 4 joy resolut approv for intern game
+33 4 joy pair of satellit will document sun in d
+34 6 surprise martian life could have evad detect by vike lander
+35 4 joy the sweet tune of an anniversari
+36 6 surprise did vike probe miss life on mar
+37 1 anger diplomat acknowledg us arrog in iraq
+38 5 sad more human remain found at ground zero
+39 3 fear how to prevent iraq from get even wors
+40 3 fear tension as hungari mark upris
+41 3 fear stanford studi warn of internet addict
+42 5 sad no evid of ic reserv on the moon
+43 5 sad parachutist di at bridg jump festiv
+44 5 sad us troop kill in octob in iraq
+45 5 sad chef not count calori studi find
+46 5 sad death link to flu vaccin
+47 4 joy perfect live lose their focu
+48 3 fear bread heavi diet link to kidnei cancer
+49 4 joy beat poverti in a small wai
+50 1 anger israel insist on lebanon overflight
+51 2 disgust britain to restrict immigr from new eu member
+52 6 surprise confus reign in the expand digit world
+53 4 joy game on london exhibit celebr the histori of video game
+54 4 joy make peac from victori over poverti
+55 5 sad marin kill in fight west of baghdad
+56 4 joy scientist creat first cloak devic
+57 4 joy amateur rocket scientist reach for space
+58 6 surprise confus reign in the expand digit world
+59 5 sad death link to flu vaccin
+60 5 sad israel admit us phosphor shell in lebanon
+61 5 sad th person di after receiv flu shot
+62 3 fear polic and shopper target in grow iraq violenc
+63 6 surprise scientist discov miracl in the depth
+64 5 sad doctor see patient who think thei re internet addict
+65 4 joy china launch two satellit into orbit
+66 6 surprise veget mai boost brain power in older adult
+67 3 fear hurrican paul near categori statu
+68 5 sad russian ship sink member crew miss
+69 6 surprise iran s presid urg higher birth rate
+70 4 joy appl set for massiv market gain
+71 5 sad tumor type mai explain surviv rate for cancer
+72 5 sad routin mission turn into hunt for miss comrad
+73 5 sad bad weather slow s korean search for russian ship
+74 4 joy tailor and housew busi as muslim celebr eid
+75 4 joy activ peac bring the promis of develop
+76 2 disgust abba condemn isra massacr in northern gaza strip
+77 5 sad bangladesh ferri sink dead
+78 4 joy buc find a new kick in life
+79 6 surprise googl to unveil elect mashup
+80 2 disgust polic warn of child exploit onlin
+81 3 fear breast cancer awar is import
+82 5 sad hungari polic tackl violent protestor
+83 4 joy three driver had reason to be proud in brazil
+84 4 joy celebr protest malibu ga facil
+85 6 surprise presto he s batman then magic man
+86 3 fear heavi us of mobil phone can make men infertil scientist sai
+87 5 sad russian ship sink in pacif
+88 4 joy china successfulli launch two satellit
+89 4 joy prestig ha magic touch
+90 5 sad li damn li and divorc
+91 4 joy man inspir giant to victori in dalla
+92 5 sad riot warn for franc suburb
+93 4 joy full recoveri expect for marathon winner
+94 5 sad soni apologis for global batteri recal
+95 3 fear question on credit card safeti
+96 1 anger budapest calm after night of violent protest
+97 4 joy veget mai boost brain power in older adult
+98 1 anger report criticis us press freedom
+99 3 fear french suburb riot could resum
+100 2 disgust photograph kidnap condemn
+101 2 disgust photograph kidnap in gaza
+102 4 joy basebal roger enjoi hi muddi streak
+103 4 joy cultur revolutionari the ipod is five
+104 6 surprise life on mar mayb we miss it
+105 4 joy three found aliv from miss russian ship report
+106 4 joy moder drink reduc men s heart attack risk
+107 4 joy the sweet tune of an anniversari
+108 1 anger inconveni truth
+109 6 surprise date difficult for harri potter
+110 5 sad student lose their rite of passag
+111 1 anger putin vow to tackl illeg immigr
+112 3 fear ottawa must redefin terror
+113 3 fear britain to limit worker from romania bulgaria
+114 5 sad top gener optimist on iraq
+115 4 joy kim osorio win sexual harrass suit against the sourc
+116 4 joy silli and substanti
+117 4 joy offici laugh for borat
+118 2 disgust speaker hastert testifi befor panel probe sex scandal
+119 4 joy tom cruis and kati holm set wed date
+120 6 surprise martian life could have evad detect by vike lander
+121 3 fear ukrain ga deal mar by fear
+122 4 joy marathon victori come at heavi cost
+123 1 anger colleg tuition continu climb
+124 2 disgust german paper show soldier desecr skull
+125 3 fear war is close ethiopia tell somali rebel
+126 4 joy advantag cardin with suppan in game
+127 4 joy nasa spacecraft to measur sun
+128 1 anger soni hate european will prevent the import of ps
+129 4 joy flu vaccin appear safe for young children
+130 4 joy googl to launch yet anoth search tool
+131 5 sad tropic storm paul s outer band hit mexico s baja california
+132 3 fear isra bomblet plagu lebanon
+133 1 anger new indonesia calam a mud bath is man made
+134 1 anger u s weigh sanction against north korea
+135 1 anger rice in baghdad insist that iraqi ar
+136 5 sad senat sai u s should rethink iraq strategi
+137 4 joy german chief forg accord on financ health care
+138 1 anger turkish writer sai effort to stifl speech mai backfir
+139 3 fear kurdish lawmak kill in an attack in baghdad
+140 1 anger anti u s attack video spread on the internet
+141 2 disgust women face greatest threat of violenc at home studi find
+142 4 joy appeal by chines research for time mai soon be heard
+143 5 sad brazil air forc cite fault and confus in fatal crash
+144 3 fear a mix of oil and environment
+145 4 joy immigr and french reach deal in standoff
+146 1 anger genghi khan beer mongolia grimac
+147 6 surprise dead bachelor in remot china still find wive
+148 4 joy pari journal smoke no longer tre chic in franc
+149 6 surprise an old letter cast doubt on iran s goal for uranium
+150 3 fear u s warn north korean about nuclear test
+151 5 sad global sludg end in tragedi for ivori coast
+152 5 sad equip on plane in brazil collis mai have been faulti
+153 5 sad new indonesia calam a mud bath is man made
+154 3 fear iraqi journalist add law to list of danger
+155 3 fear u n forc is tread lightli on lebanes soil
+156 5 sad cleric said to lose rein over part of iraqi militia
+157 6 surprise cite spy agenc studi democrat seek iraq chang
+158 5 sad opera cancel over a depict of muhammad
+159 4 joy militari offici add to u s critic of iraq s govern
+160 3 fear teacher in hide after attack on islam stir threat
+161 3 fear comb bush releas part of terror studi
+162 3 fear grow unarm battalion in qaeda armi is us internet to get the messag out
+163 3 fear iraqi link to sunni bloc is held in plot militari sai
+164 2 disgust seduc by snack no not you
+165 4 joy friend for life an emerg biologi of emot heal
+166 5 sad alzheim s drug offer no help studi find
+167 5 sad across europ worri on islam spread to center
+168 4 joy cook defin sephard jew at sukkot
+169 4 joy fit bodi in motion clean and sober
+170 4 joy in god s name religion base tax break hous to paycheck to book
+171 5 sad yanke di in plane crash offici sai
+172 5 sad an eleph crackup
+173 4 joy with youtub grad student hit jackpot again
+174 4 joy dow flirt with record high again
+175 3 fear tropic storm isaac form in atlant
+176 3 fear new iraq terror tape call for abduct foreign
+177 5 sad deep regret for ex hp exec
+178 4 joy opportun knock on geologist s dream crater
+179 6 surprise squirrel jump boi in park rabi suspect
+180 5 sad girl left comatos after dental visit di
+181 2 disgust porn star candid campaign on campu
+182 5 sad school end footbal season after start
+183 4 joy charli sheen to becom highest paid sitcom star
+184 6 surprise jon stewart mock benefit of cnn s i
+185 6 surprise ashton kutcher tell secret to ryan seacrest
+186 2 disgust nail on chalkboard studi earn ig
+187 5 sad gunman fine befor shoot
+188 6 surprise marijuana mai stave off alzheim s
+189 4 joy kentucki seek alcohol huf ban
+190 5 sad toddler di from taint spinach
+191 6 surprise judg dismiss karr s porn case
+192 3 fear die in hour kashmir standoff
+193 5 sad slain amish girl laid to rest
+194 3 fear flee plant fire
+195 4 joy cher auction fetch doubl pre sale estim
+196 2 disgust star scuffl on grei s anatomi
+197 5 sad probe under wai in yanke crash
+198 5 sad amish schoolhous torn down
+199 5 sad warner will not run in
+200 6 surprise reid land deal under scrutini
+201 5 sad flood wash out road to valdez alaska
+202 5 sad briton admit u s bomb plot role
+203 1 anger commentari minutemen have a right to be idiot
+204 4 joy madonna file adopt paper
+205 3 fear gunmen kill at iraqi tv station
+206 5 sad hastert sorri for scandal but not quit
+207 1 anger ex jonbenet suspect child porn case drop
+208 5 sad wast plant fire forc to evacu
+209 5 sad toddler di from e coli taint spinach
+210 2 disgust disturb find in child sex raid
+211 1 anger magazin list women who had abort
+212 6 surprise pot smoker mai avoid alzheim s studi sai
+213 5 sad student start white men s club on campu
+214 6 surprise kentucki want to ban alcohol inhal
+215 6 surprise peter pan fli into chapter two
+216 4 joy teen repel inventor win infam prize
+217 4 joy cher s dress car bed have new owner
+218 4 joy dow hit new record ey
+219 6 surprise ex virginia gov not run for presid
+220 6 surprise yanke pitcher s pilot log found
+221 1 anger dem leader s million land deal under scrutini
+222 5 sad dad lock up son watch on tv polic sai
+223 5 sad navarrett minutemen have a right to be idiot
+224 5 sad pit bull jump miniatur poni leav her bloodi
+225 3 fear alaska town cut off from rest of state by flood
+226 4 joy trailblaz trio protect citi by the bai
+227 4 joy madonna file adopt paper in malawi
+228 5 sad dr mcdreami choke in grei s scuffl
+229 4 joy poetri prize award
+230 4 joy la vega honour for tiger pair
+231 4 joy uk charact boost box offic
+232 4 joy cher item snap up at auction
+233 2 disgust griffith scorn withnail plai
+234 4 joy lili allen win web music award
+235 1 anger costner appeal in casino wrangl
+236 1 anger beyonc copyright claim reject
+237 4 joy cohn gunman jail for year
+238 4 joy melua s deep sea gig set record
+239 5 sad sri lanka clash kill troop
+240 5 sad gunmen kill in iraq tv raid
+241 6 surprise itali drop sicili bridg plan
+242 5 sad amish kill school demolish
+243 4 joy pamuk win nobel literatur prize
+244 4 joy madonna adopt bid approv
+245 3 fear man admit uk us terror bomb plot
+246 2 disgust who ar you call fat
